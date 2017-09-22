@@ -1,2 +1,4 @@
-# SqlInjectionExercise
-SQL Injection
+# SqlInjection Exercise
+
+SQL Injection for Sql-labs 
+
